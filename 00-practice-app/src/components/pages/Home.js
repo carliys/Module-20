@@ -12,14 +12,16 @@ export default function Home() {
       I used MySQL and other tools to design
       and implement this project, and overcame 
       several challenges.
-
+      </p>
+      <p>
       Another project I'm working on is weather service app, which uses a certain API to 
       forecast the weather in real time. The development process for this project
       involved alot of sleep less nights and help from my colleagues. I'm 
       looking forward to adding new features and 
       functionality to this project in the future,
       such as emojis that indicate the weather.
-
+      </p>
+      <p>
       Stay tuned for more information on these projects and others,
       as I continue to refine my coding skills and explore new areas
       of development. I'm passionate about creating innovative and
